@@ -1,0 +1,104 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/840409717",
+  "properties": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Boulder Beer Company",
+    "phone": "+1-303-444-8448",
+    "url": "http://www.boulderbeer.com/",
+    "id": "node/840409717"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.2480158,
+      40.026439
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/951881512",
+  "properties": {
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "microbrewery": "yes",
+    "name": "James Peak Brewery and Smokehouse",
+    "id": "node/951881512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.5093502,
+      39.961777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1604060178",
+  "properties": {
+    "amenity": "restaurant",
+    "cuisine": "pub",
+    "microbrewery": "yes",
+    "name": "Pumphouse Brewery",
+    "phone": "303-782-0881",
+    "website": "http://www.pumphousebrewery.com/",
+    "id": "node/1604060178"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.1020999,
+      40.1687619
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2089468077",
+  "properties": {
+    "addr:housenumber": "20 #112",
+    "addr:street": "Lakeview Dr",
+    "amenity": "bar",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "Very Nice Brewing Company",
+    "website": "http://www.verynicebrewing.com/",
+    "id": "node/2089468077"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.509209,
+      39.9598958
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3447795458",
+  "properties": {
+    "addr:city": "Broomfield",
+    "addr:postcode": "80021",
+    "addr:state": "CO",
+    "craft": "brewery",
+    "microbrewery": "yes",
+    "name": "4 Noses Brewing Company",
+    "id": "node/3447795458"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -105.098632,
+      39.9064891
+    ]
+  }
+}
+]
+}
